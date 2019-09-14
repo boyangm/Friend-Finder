@@ -39,7 +39,7 @@ module.exports = function(app) {
             }
         });
 
-         res.json(bestMatch.friend);
+     res.json(bestMatch.friend);
 
     })
 
